@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Copy Cat</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="start_here">Start Here</string>
+    <string name="learning_modules">Learning Modules</string>
+    <string name="account">Account</string>
+    <string name="lesson1">Lesson 1</string>
+    <string name="lesson2">Lesson 2</string>
+    <string name="lesson3">Lesson 3</string>
+    <string name="lesson4">Lesson 4</string>
+    <string name="lesson5">Lesson 5</string>
+    <string name="lesson6">Lesson 6</string>
+    <string name="lesson7">Lesson 7</string>
+    <string name="lesson8">Lesson 8</string>
+    <string name="lesson9">Lesson 9</string>
+    <string name="lesson10">Lesson 10</string>
+    <string name="lesson11">Lesson 11</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="back_button">Back</string>
+
+
+</resources>
